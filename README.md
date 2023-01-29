@@ -19,3 +19,5 @@ GAMEPLAY:
 - Land on green platforms to boost and bounce higher
 - Avoid from falling
 - Achieve a high score by not falling immediately
+
+Instagram: @saintdaniiii
